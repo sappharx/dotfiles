@@ -4,8 +4,9 @@
     ~/.dotfiles: ''
     ~/.gitconfig: gitconfig
     ~/.tmux.conf: tmux.conf
-    ~/.vimrc: vimrc
     ~/.vim: vim/
+    ~/.vimrc: vimrc
+    ~/.zsh: zsh/
     ~/.zshrc: zshrc
 
 - shell:
