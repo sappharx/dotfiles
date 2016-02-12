@@ -1,0 +1,13 @@
+# compiled source
+*.dll
+*.exe
+*.o
+*.pyc
+*.so
+
+# editing tools and IDEs
+*.swp
+*~
+
+# logs
+*.log

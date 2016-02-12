@@ -1,6 +1,7 @@
 [user]
 	email = vinnysisk@gmail.com
 	name = Vincent Sisk
+
 [alias]
 	co = checkout
 	br = branch
@@ -8,5 +9,13 @@
 	st = status
 	last = log -l HEAD
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+
 [color]
 	ui = true
+
+[core]
+	excludesfile = ~/.gitignore_global
+
+# allow local customizations in the .gitconfig_local file
+[include]
+	path = ~/.gitconfig_local
