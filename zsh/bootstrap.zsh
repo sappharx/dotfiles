@@ -1,0 +1,1 @@
+PATH=~/.dotfiles/bin:${path}
