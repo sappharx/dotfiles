@@ -1,3 +1,6 @@
+[user]
+	email = vinnysisk@gmail.com
+	name = Vincent Sisk
 [alias]
 	co = checkout
 	br = branch
