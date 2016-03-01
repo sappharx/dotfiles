@@ -18,6 +18,7 @@ SAVEHIST=$HISTSIZE
 setopt appendhistory
 setopt incappendhistory
 setopt extendedhistory
+setopt HIST_IGNORE_DUPS
 
 # time to wait for additional characters in a sequence
 KEYTIMEOUT=1 # 10 ms
