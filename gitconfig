@@ -5,6 +5,7 @@
 	co = checkout
 	br = branch
 	ci = commit
+	s = status -s
 	st = status
 	last = log -l HEAD
 	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
